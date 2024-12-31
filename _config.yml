@@ -1,8 +1,9 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: goldenxp.com docs
+description: >
+    Just some random Software Documentation on the Internet
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://docs.goldenxp.com
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
