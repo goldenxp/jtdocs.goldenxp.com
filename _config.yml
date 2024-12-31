@@ -3,7 +3,25 @@ description: >
     Just some random Software Documentation on the Internet
 theme: just-the-docs
 
+permalink: pretty
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
 url: https://docs.goldenxp.com
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+
+# Footer "Edit this page on GitHub" link text
+gh_edit_link: true
+gh_edit_link_text: "Edit this page on GitHub"
+gh_edit_repository: "https://github.com/goldenxp/jtdocs.goldenxp.com"
+gh_edit_branch: "main"
+gh_edit_source: docs
+gh_edit_view_mode: "tree" # "tree" or "edit"
