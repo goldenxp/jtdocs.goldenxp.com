@@ -1,6 +1,7 @@
 ---
 title: Ink
 description: Ink Documentation, Articles and other write-ups
+has_toc: false
 ---
 
 # Ink
