@@ -27,6 +27,7 @@ While reading the official documentation, you might get overwhelmed by Inkle's u
 * [Tabular Data in Ink]({{ site.baseurl }}/ink/tabulardata)
 * [Recursive Functions in Ink]({{ site.baseurl }}/ink/functionrecursion)
 * [Testing Strategies using Inky Web Export]({{ site.baseurl }}/ink/testinginkweb)
+* [Getting Started with InkCPP in Unreal]({{ site.baseurl }}/ink/unrealinkcpp)
 
 ## Lingo
 
