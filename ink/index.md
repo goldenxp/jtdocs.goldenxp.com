@@ -29,6 +29,7 @@ While reading the official documentation, you might get overwhelmed by Inkle's u
 * [Testing Strategies using Inky Web Export]({{ site.baseurl }}/ink/testinginkweb)
 * [Getting Started with InkCPP in Unreal]({{ site.baseurl }}/ink/unrealinkcpp)
 * [Getting Started with Inkpot in Unreal]({{ site.baseurl }}/ink/unrealinkpot)
+* [Ink for Godot]({{ site.baseurl }}/ink/godotinkaddons)
 
 ## Lingo
 
